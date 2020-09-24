@@ -3,15 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a55f023d-d3e6-4aa9-b965-d5f8862ec7ed" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main-es2015.db529123ea1bc774fca3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main-es5.8319f7a100ab7ea5f0a7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/notebookcollections/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/notebookcollections/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/notebookcollections/main-es2015.db529123ea1bc774fca3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/notebookcollections/main-es5.8319f7a100ab7ea5f0a7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
